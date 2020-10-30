@@ -1938,9 +1938,10 @@ escope@^3.6.0:
     esrecurse "^4.1.0"
     estraverse "^4.1.1"
 
-eslint-config-standard@^6.2.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/eslint-config-standard/-/eslint-config-standard-6.2.1.tgz#d3a68aafc7191639e7ee441e7348739026354292"
+eslint-config-standard@^16.0.1:
+  version "16.0.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-standard/-/eslint-config-standard-16.0.1.tgz#9a385eea27f96b7918cb53f07e01e9d10cc56401"
+  integrity sha512-WBBiQQZdaPyL+4sPkGWhWrHCDtvJoU195B9j8yXE9uFQnX34gMXI5CeBRm95gx3PMEZPM5OpwET10hH4F4SxCA==
 
 eslint-plugin-html@^1.7.0:
   version "1.7.0"
